@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: Claims API
-  description: "Internal PM API for getting Claims and related resources. Additional context. Hello world "
+  description: "Internal PM API for getting Claims and related resources. Additional context. Hello world. Today is Wed "
   contact: {}
   version: v4.0.1
 servers:
